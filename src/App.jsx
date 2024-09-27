@@ -2,7 +2,7 @@ import AddTodo from "./components/addTodo";
 import AppName from "./components/appName";
 import { useState } from "react";
 
-import "./Index.css";
+// import "./Index.css";
 import TodoItems from "./components/todoItems";
 import ErrorMsg from "./components/errorMsg";
 import { TodoItemContext } from "../../../ContextAPI-todo/src/store/item-store";
