@@ -1,0 +1,39 @@
+:root{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.appBody{
+  /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+  font-family: sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  
+  border: 1px solid grey;
+  border-radius: 5px;
+  z-index: 1;
+  width: 100%;
+  margin: 10px;
+}
+.col h1 {
+  font-weight: 700;
+  color: aqua;
+  text-shadow:  7px 5px 7px black;
+  font-size: 40px;
+  margin: 10px;
+  margin-bottom: 12px;
+}
+input{
+  width: 100%;
+  height: 100%;
+}
+.my-button{
+  min-width: 75px;
+  padding: 1px ;
+ 
+}
+.fontclass{
+  
+}
